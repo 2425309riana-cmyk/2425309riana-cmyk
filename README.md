@@ -1,66 +1,69 @@
 <!--
-===================================================
-Hi there 👋, saya Riana_nur'aeni (2425309riana‑cmyk)
-===================================================
+=================================================
+Hai 👋, Saya [Nama Kamu] — versi “ganteng” di GitHub
+=================================================
 -->
 
-### 🧑‍💻 Tentang Saya
+# Halo, aku [Nama Kamu]!
 
-Halo! Saya **Riana Nur’aeni**, mahasiswa / penggiat / pembelajar aktif di bidang software / website / front‑end / back‑end (sesuaikan).  
-Saya tertarik dalam hal:
+Aku adalah pengembang [web / front-end / back-end / full-stack / mobile / sesuai kamu] yang suka eksplor, belajar hal baru, dan berkolaborasi di project open source.
 
-- Pemrograman (misalnya: HTML, CSS, JavaScript, Python, dsb.)  
-- Pengembangan web & UI/UX  
-- Kolaborasi proyek open source  
-- Belajar hal‑baru terus menerus!
+💻 Saat ini lagi fokus ke:
 
----
-
-### ⚙️ Skill dan Tools yang Saya Gunakan
-
-| Kategori       | Tools / Teknologi                         |
-|----------------|--------------------------------------------|
-| Front‑End      | HTML · CSS · JavaScript · (framework)      |
-| Back‑End       | (misal: Node.js / Python / PHP)            |
-| Database       | MySQL / PostgreSQL / MongoDB               |
-| Tools & Lainnya| Git · GitHub · VSCode · Figma / Adobe XD    |
+- 🛠 Proyek sekolah / kampus + side project  
+- 💡 Eksplor teknologi baru & best practices  
+- 🔧 Memperbaiki skill coding & workflow
 
 ---
 
-### 📂 Proyek Utama
+## 💼 Skill & Teknologi
 
-Beberapa repositori / proyek yang pernah / sedang saya kerjakan:
-
-- **belajar‑git** — repositori untuk eksperimen dan latihan Git (commit, branch, merge, dsb)  
-- **Tugas_MPIL** — proyek tugas di mata kuliah/kelas MPIL / (?)  
-- **Tugas.HTML** — latihan pembuatan halaman HTML / web statis  
-- **2425309riana‑cmyk** — profil umum + repositori berbagai eksperimen / latihan saya  
-
-> Catatan: kamu bisa tambahkan deskripsi singkat tiap proyek — teknologi yang dipakai, what problem solved, serta hasilnya.
+| Kategori         | Teknologi / Tools                 |
+|------------------|-------------------------------------|
+| Front‑End        | HTML · CSS · JavaScript · (library / framework favorit kamu) |
+| Back‑End         | (misal: PHP / Node.js / Python / lainnya) |
+| Database / API   | MySQL / PostgreSQL / MongoDB / REST / GraphQL |
+| Versioning & Dev | Git · GitHub · VSCode / Editor favorit · Terminal / CLI |
 
 ---
 
-### 🎯 Tujuan & Ambisi
+## 📂 Proyek Terpopuler & Repositori Unggulan
 
-- Mengembangkan kemampuan dalam framework / library modern (misal: React, Vue, Angular)  
-- Mengerjakan proyek nyata / freelance untuk memperluas portfolio  
-- Berkontribusi ke komunitas open source  
-- Membangun solusi yang bermanfaat bagi orang banyak  
+Beberapa repositori yang semoga bisa memberi gambaran siapa aku dan apa yang aku kerjakan:
 
----
-
-### 📫 Hubungi Saya
-
-- Email: `riananur’aeni@email.com` *(ganti dengan email kamu)*  
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username) *(jika punya)*  
-- Instagram / Twitter / portofolio pribadi: *(tuliskan jika ada)*  
+- **[NamaProyek1]** — deskripsi singkat, teknologi utama, kenapa proyek ini menarik  
+- **[NamaProyek2]** — tujuan / hasil / yang aku pelajari  
+- **[NamaProyek3]** — (tambahkan screenshot / link demo jika ada)
 
 ---
 
-### ⭐ Statistik GitHub
+## 📈 Statistik GitHub
 
-![Riana's GitHub stats](https://github-readme-stats.vercel.app/api?username=2425309riana-cmyk&show_icons=true&theme=radical)
+![Stats GitHubku](https://github-readme-stats.vercel.app/api?username=[username-kamu]&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username-kamu]&layout=compact&theme=radical)
 
 ---
 
-Terima kasih sudah mampir di profil saya! Selalu terbuka untuk kolaborasi & belajar bersama 💪  
+## 📲 Yuk, Terhubung!
+
+| Platform        | Link                                 |
+|------------------|--------------------------------------|
+| Email            | [emailmu@example.com]               |
+| Instagram        | [@username](https://instagram.com/username) |
+| LinkedIn         | [Nama LinkedIn](https://linkedin.com/in/username) |
+| Portfolio        | [portofoliomu.com](https://portofoliomu.com)     |
+
+---
+
+## 🔗 Hal-hal Seru & Ambisi
+
+- Mau ikut & kontribusi ke open source project yang menarik  
+- Bikin proyek sendiri yang bisa membantu banyak orang  
+- Belajar framework / tools baru seperti [sebutin yang kamu pengen]  
+- Terus meningkatkan kualitas kode & desain UI/UX
+
+---
+
+_“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.”_
+
+Terima kasih udah mampir — semoga kita bisa kolaborasi 🤝  
