@@ -4,7 +4,7 @@ Hai 👋, Saya [Nama Kamu] — versi “ganteng” di GitHub
 =================================================
 -->
 
-# Halo, aku [Nama Kamu]!
+# Halo, aku rianaaaaaaaa!
 
 Aku adalah pengembang [web / front-end / back-end / full-stack / mobile / sesuai kamu] yang suka eksplor, belajar hal baru, dan berkolaborasi di project open source.
 
